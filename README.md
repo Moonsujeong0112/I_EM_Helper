@@ -29,7 +29,11 @@ AI System for Emergency
 
 2023.09.01-2024.7.30
 
+## 참여 인원
 
+문수정
+유가연
+지승훈
 
 
 ## 개발 환경
@@ -43,8 +47,9 @@ AI System for Emergency
 
 #### H/W
 - **language** : `Python 3.9.2`
-- **IDE** : `Thony`, `PyCharm`, `Geany`
-- **OS** : `Linux` 
+- **IDE** : `Thony`, `PyCharm`, `Geany`, `VS code`
+- **OS** : `Linux` , `Bullseye`
+- **Device** : Raspberrypi 4
 
 
 
@@ -59,3 +64,4 @@ AI System for Emergency
 3. 위급 상황 감지
 4. 위급 상황 영상 송출
 5. 이미지 저장
+6. 웹사이트 제공
