@@ -3,9 +3,8 @@
 # Author: moonsujeong
 # only video file*** auto sender system
 # problem 
-# 1. no rules of scheduler
-# 2. no seperate function (video make and quto sender)
-# 3. no have rec system 
+# 1. no seperate function (video make and quto sender)
+# 2. no have rec system 
 from time import sleep
 import datetime
 import sys, os
