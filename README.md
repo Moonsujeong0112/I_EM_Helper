@@ -48,7 +48,7 @@ AI System for Emergency
 #### H/W
 - **language** : `Python 3.9.2`
 - **IDE** : `Thony`, `PyCharm`, `Geany`, `VS code`
-- **OS** : `Linux` , `Bullseye`
+- **OS** : `Linux` 
 - **Device** : Raspberrypi 4
 
 
